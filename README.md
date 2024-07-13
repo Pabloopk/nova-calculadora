@@ -1,1 +1,1 @@
-Calculadora feira para treino de Html/css
+Calculadora feita para treino de Html/css
